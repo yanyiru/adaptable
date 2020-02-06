@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "GTmetrix Analyzer Plugin",
+  "name": "adapTABle",
   "version": "1.0",
 
   "browser_action": {
